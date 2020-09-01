@@ -9,3 +9,8 @@ int main(void) {
   printf("%f° in Celsius is equivalent to %f° Fahrenheit.\n"),c,f;
   return 0;
 }
+
+// Author: August Sanderson aes6218@psu.edu
+// Collaborator: Kirtan Shah kps5871@psu.edu
+// Collaborator: Anthony Cicardo abc6181@psu.edu
+// Collaborator: Karen Rodriguez kvr5509@psu.edu
